@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container {
+.main {
     background-color: purple;
     width: 200px;
     border-left-width: 5px;
@@ -12,4 +12,5 @@
   #heading {
     color: white;
     font-size: 20px;
+    text-decoration: underline;
   }
